@@ -85,7 +85,9 @@ CUSTO CLARITY/
 │   ├── models/                    # Trained model files
 │   └── reports/                   # Analysis reports
 ├── docs/                          # Documentation
-│   └── methodology.md             # Detailed methodology
+│   ├── methodology.md             # Detailed methodology
+│   ├── project_summary.md         # Project summary and overview
+│   └── case_study.md              # Comprehensive case study documentation
 ├── requirements.txt               # Python dependencies
 ├── setup.py                       # Package setup
 └── README.md                      # Project documentation
@@ -138,7 +140,7 @@ CUSTO CLARITY/
    python src/generate_report.py
    ```
 
-### 📈 Key Findings
+### � Key Findings
 
 *(Results will be populated after analysis)*
 
@@ -146,6 +148,15 @@ CUSTO CLARITY/
 - **Primary Segmentation Factors**: Income level, spending behavior, age demographics
 - **Marketing Recommendations**: Targeted strategies for each segment
 - **Business Impact**: Potential revenue optimization opportunities
+
+### 📋 Documentation
+
+The project includes comprehensive documentation:
+
+- **[Case Study](docs/case_study.md)**: Complete business case study with problem statement, methodology, results, and recommendations
+- **[Methodology](docs/methodology.md)**: Detailed technical methodology and implementation approach  
+- **[Project Summary](docs/project_summary.md)**: Executive summary and key project highlights
+- **README.md**: Project overview and getting started guide
 
 ### 📊 Visualizations
 
